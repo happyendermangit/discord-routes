@@ -1,0 +1,4 @@
+{
+    "CHANNEL_PERMISSIONS_OVERWRITE": "/channels/:param/permissions/:param",
+    "CHANNEL_STORE_LISTING_SKU": "/channels/:param/store-listings/:param"
+}

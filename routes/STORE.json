@@ -1,0 +1,15 @@
+{
+    "STORE_DIRECTORY_LAYOUT": "/store/directory-layouts/:param",
+    "STORE_DIRECTORY": "/store/directory/:param",
+    "STORE_PUBLISHED_LISTINGS_APPLICATION": "/store/published-listings/applications/:param",
+    "STORE_PUBLISHED_LISTINGS_SKU": "/store/published-listings/skus/:param",
+    "STORE_PUBLISHED_LISTINGS_SKU_JOIN_GUILD": "/store/published-listings/skus/:param/guild/join",
+    "STORE_PUBLISHED_LISTINGS_SUBSCRIPTION_PLANS": "/store/published-listings/skus/:param/subscription-plans",
+    "STORE_SKU": "/store/skus/:param",
+    "STORE_SKU_PURCHASE": "/store/skus/:param/purchase",
+    "STORE_LISTING": "/store/listings/:param",
+    "STORE_LISTINGS_SKU": "/store/skus/:param/listings",
+    "STORE_EULA": "/store/eulas/:param",
+    "STORE_ASSET": "/store/applications/:param/assets/:param.:param",
+    "STORE_DIRECTORY_LAYOUT_STICKER_PACKS": "/sticker-packs/directory-v2/:param"
+}

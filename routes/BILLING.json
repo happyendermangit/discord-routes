@@ -1,0 +1,3 @@
+{
+    "BILLING_POPUP_BRIDGE_CALLBACK_REDIRECT_PREFIX": "/billing/popup-bridge/:param/callback/:param/:param"
+}

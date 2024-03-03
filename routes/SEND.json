@@ -1,0 +1,3 @@
+{
+    "SEND_UNAUTHENTICATED_REPORT_PINCODE": "/reporting/unauthenticated/:param/code"
+}

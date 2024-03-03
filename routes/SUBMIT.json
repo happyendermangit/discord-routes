@@ -1,0 +1,4 @@
+{
+    "SUBMIT_REPORT_MENU": "/reporting/:param",
+    "SUBMIT_UNAUTHENTICATED_REPORT_MENU": "/reporting/unauthenticated/:param"
+}

@@ -1,0 +1,4 @@
+{
+    "DEBUG_LOG": "/debug-logs/:param/:param",
+    "DEBUG_LOGS": "/debug-logs/multi/:param"
+}

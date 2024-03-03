@@ -1,0 +1,5 @@
+{
+    "CREATE_REFERRAL_PREVIEW": "/users/@me/referrals/:param/preview",
+    "CREATE_REFERRAL": "/users/@me/referrals/:param",
+    "CREATE_USER_OFFER": "/user-offers/create/:param/:param"
+}

@@ -1,0 +1,3 @@
+{
+    "VERIFY_UNAUTHENTICATED_REPORT": "/reporting/unauthenticated/:param/verify"
+}

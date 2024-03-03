@@ -1,0 +1,3 @@
+{
+    "MFA_WEBAUTHN_CREDENTIAL": "/users/@me/mfa/webauthn/credentials/:param"
+}

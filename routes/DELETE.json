@@ -1,0 +1,3 @@
+{
+    "DELETE_USER_OFFER": "/user-offers/:param/:param"
+}

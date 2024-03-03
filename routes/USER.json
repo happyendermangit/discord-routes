@@ -1,0 +1,6 @@
+{
+    "USER_SETTINGS_PROTO": "/users/@me/settings-proto/:param",
+    "USER_ACTIVITY_METADATA": "/users/:param/sessions/:param/activities/:param/metadata",
+    "USER_ACTIVITY_JOIN": "/users/:param/sessions/:param/activities/:param/1",
+    "USER_NON_CHANNEL_ACK": "/users/@me/:param/:param/ack"
+}

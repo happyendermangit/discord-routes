@@ -1,0 +1,5 @@
+{
+    "SHARED_CANVAS_LINES": "/channels/:param/:param/shared-canvas/lines",
+    "SHARED_CANVAS_EMOJI_HOSES": "/channels/:param/:param/shared-canvas/emoji-hose",
+    "SHARED_CANVAS_EMOJI_HOSE": "/channels/:param/:param/shared-canvas/emoji-hose/:param"
+}

@@ -1,0 +1,4 @@
+{
+    "GET_REPORT_MENU": "/reporting/menu/:param",
+    "GET_UNAUTHENTICATED_REPORT_MENU": "/reporting/unauthenticated/menu/:param"
+}
